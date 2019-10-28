@@ -148,6 +148,9 @@ header {
   height: 970px;
   color: white;
 }
+.container{
+  max-width: 970px;
+}
 #vantaggi h1{
   text-align: center;
   color:white;
