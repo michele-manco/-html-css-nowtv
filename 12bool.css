@@ -9,7 +9,7 @@
     margin: 0 auto;
 }
 
-.container::after {
+.container::after .clearfix::after{
     clear: both;
     display: table;
     content: '';
